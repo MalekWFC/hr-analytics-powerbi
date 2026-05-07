@@ -1,4 +1,4 @@
-# HR Analytics Dashboard: Employee Attrition & Workforce Insights | Power BI & DAX
+# HR Analytics: Employee Performance & Attrition Insights
 
 ## Table of Contents
 - [Project Overview](#project-overview)
